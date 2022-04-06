@@ -18,6 +18,8 @@
 
 ### Welcome
 
+The `crow` framework has a similar goal to the `bind` standard library project, except it is a framework not a library. The `crow` project is used for building apps, writing CLI tools, building microservices, etc.. It is a way of writing your code, along with tools like Rails provides to make building these things easier and more seamless across platforms.
+
 ### License
 
 Copyright 2022 <a href='https://drum.work'>DrumWork</a>
