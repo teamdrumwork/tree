@@ -7,9 +7,13 @@
 <br/>
 <br/>
 
-<h3 align='center'>crow</h3>
 <p align='center'>
-  Link Text Framework
+  <img src='https://github.com/drumworkteam/tree/blob/make/view/view.svg?raw=true' height='312'>
+</p>
+
+<h3 align='center'>tree</h3>
+<p align='center'>
+  Link Text Framework Specification
 </p>
 
 <br/>
@@ -18,7 +22,7 @@
 
 ### Welcome
 
-The `crow` framework has a similar goal to the `bind` standard library project, except it is a framework not a library. The `crow` project is used for building apps, writing CLI tools, building microservices, etc.. It is a way of writing your code, along with tools like Rails provides to make building these things easier and more seamless across platforms.
+The `tree` framework has a similar goal to the `seed` standard library project, except it is a framework not a library. The `tree` project is used for building apps, writing CLI tools, building microservices, etc.. It is a way of writing your code, along with tools like Rails provides to make building these things easier and more seamless across platforms.
 
 ### License
 
