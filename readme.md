@@ -22,7 +22,7 @@
 
 ### Welcome
 
-The `tree` framework has a similar goal to the `seed` standard library project, except it is a framework not a library. The `tree` project is used for building apps, writing CLI tools, building microservices, etc.. It is a way of writing your code, along with tools like Rails provides to make building these things easier and more seamless across platforms.
+The `tree` framework has a similar goal to the [`moon`](https://github.com/drumworkteam/moon) standard library project, except it is a framework not a library. The `tree` project is used for building apps, writing CLI tools, building microservices, etc.. It is a way of writing your code, along with tools like Rails provides to make building these things easier and more seamless across platforms.
 
 ### Relationships
 
