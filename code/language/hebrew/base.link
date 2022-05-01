@@ -1,0 +1,24 @@
+
+host gematria
+  host 1, text <א>
+  host 2, text <ב>
+  host 3, text <ג>
+  host 4, text <ד>
+  host 5, text <ה>
+  host 6, text <ו>
+  host 7, text <ז>
+  host 8, text <ח>
+  host 9, text <ט>
+  host 10, text <י>
+  host 20, text <כ>
+  host 30, text <ל>
+  host 40, text <מ>
+  host 50, text <נ>
+  host 60, text <ס>
+  host 70, text <ע>
+  host 80, text <פ>
+  host 90, text <צ>
+  host 100, text <ק>
+  host 200, text <ר>
+  host 300, text <ש>
+  host 400, text <ת>
